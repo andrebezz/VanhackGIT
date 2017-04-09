@@ -1,0 +1,32 @@
+AccountID,H1,H2,H3,SH1,Description,Count,FrequencyDescription,FrequencyDuration,FrequencyDurationDate,FrequencyWeekday,FrequencyAmount,FrequencyAmountRange,TotalAmount,TotalInAmount,TotalOutAmount,MonthlyAmount,GroupID,Display,FrequencyExactness,FrequencyPeriod,ScoreEmployer,ScoreDirCr,ScoreWeekday,ScoreFrequency,ScoreAmount,ScoreTotal
+1234567,Income,Salary,,,{NO MATCH},,,,,,,,,,,,,,,,,,,,,
+1234567,Income,Benefits,,,FED PROV TERR CANADA,1,Once-Off,,5Jan,,97.87,,97.87,97.87,0,0,2555557-1056,FED PROV TERR CANADA,Once-Off,,,,,,,0
+1234567,Income,Other Income,,,"{No Unique Description} (DEP/WDL BRANCH,DEP/WDL INT)",10,Irregular Weekly,Started,13Jan - 15Mar,,502.483,(60-896),5024.83,5024.83,0,1674.9433,0-1055,{No Unique Description},Irregular,Weekly,,,,,,0
+1234567,Income,Other Income,,,TAX REFUND,1,Once-Off,,23Mar,,573.13,,573.13,573.13,0,0,311900-1055,TAX REFUND,Once-Off,,,,,,,0
+1234567,Loans,Small Amount Loans,Loans,,CREDIT CLUB (DEP/WDL INT),3,Irregular 3 Weeks,Ongoing,17Jan - 2Mar,,483.3333,(450-500),1450,1450,0,483.3333,3064850-1060,CREDIT CLUB,Irregular,3 Weeks,,,,,,0
+1234567,Loans,Small Amount Loans,Repayments,,CREDIT CLUB (DIR DR),3,Irregular 23 Days,Ongoing,13Jan - 28Feb,,552,(527-585),1656,0,1656,552,3064850-1061,CREDIT CLUB,Irregular,23 Days,,,,,,0
+1234567,Loans,Small Amount Loans,Repayments,,"CASH MONEY (DIR DR,EFTPOS)",8,Irregular 10 Days,Ongoing,3Jan - 16Mar,,187.5962,(49-338),1500.77,0,1500.77,500.2566,228887-1061,CASH MONEY,Irregular,10 Days,,,,,,0
+1234567,Loans,Small Amount Loans,Repayments,,MONEY LENDER,5,Sometimes 18 Days,Ongoing,3Jan - 15Mar,,166.618,(134-296),833.09,0,833.09,277.6966,104564508-103,FLEXFI INC,Sometimes,18 Days,,,,,,0
+1234567,Loans,Small Amount Loans,Dishonours,,{NO MATCH},,,,,,,,,,,,,,,,,,,,,
+1234567,Loans,Other Dishonours,,,{NO MATCH},,,,,,,,,,,,,,,,,,,,,
+1234567,Loans,Other Loans,,,MDG FINANCE (DIR DR),9,Irregular Weekly,Stopped,30Dec - 28Feb,,27.4611,(23-33),247.15,0,247.15,82.3833,4785517-1059,MDG FINANCE,Irregular,Weekly,,,,,,0
+1234567,Loans,Other Loans,,,REFRESHFI (DIR DR),3,Irregular 23 Days,Ongoing,16Jan - 2Mar,,42.18,,126.54,0,126.54,42.18,9975348-1059,REFRESHFI,Irregular,23 Days,,,,,,0
+1234567,Outgoings,Rent,,,{NO MATCH},,,,,,,,,,,,,,,,,,,,,
+1234567,Outgoings,Other Outgoings,,,"{No Unique Description} (DEP,DEP/WDL INT,FEE)",18,Irregular 5 Days,Ongoing,28Dec - 23Mar,,41.8338,(1-235),753.01,0,753.01,251.0033,0-1053,{No Unique Description},Irregular,5 Days,,,,,,0
+1234567,Outgoings,Other Outgoings,,,ALBERTA (DEP/WDL INT),3,Exactly Monthly,Ongoing,3Jan - 28Feb,,120.9,,362.7,0,362.7,120.9,4763371-1053,ALBERTA,Exactly,Monthly,,,,,,0
+1234567,Outgoings,Other Outgoings,,,MSP REV SERV BC (BPAY),3,Irregular 16 Days,Ongoing,23Jan - 24Feb,,54,(30-82),162,0,162,54,3326725-1053,MSP REV SERV BC,Irregular,16 Days,,,,,,0
+1234567,Outgoings,Other Outgoings,,,FITWELLS (DIR DR),3,Irregular Monthly,Ongoing,3Jan - 1Mar,,36.75,,110.25,0,110.25,36.75,12506283-1053,FITWELLS,Irregular,Monthly,,,,,,0
+1234567,Outgoings,Other Outgoings,,,PC FINANCIAL MC (BPAY),3,Irregular Monthly,Ongoing,23Jan - 22Mar,,36.6666,(35-40),110,0,110,36.6666,3139411-1053,PC FINANCIAL MC,Irregular,Monthly,,,,,,0
+1234567,Outgoings,Other Outgoings,,,INSURANCE IND ALL LIFE IN,2,Infrequent Monthly,,16Jan - 16Feb,,83.97,,167.94,0,167.94,0,3348889-1053,INSURANCE IND ALL LIFE IN,Infrequent,Monthly,,,,,,0
+1234567,Outgoings,Other Outgoings,,,VIRGIN MOBILE (BPAY),2,Infrequent Weekly,,7Feb - 14Feb,,50,,100,0,100,0,130148-1053,VIRGIN MOBILE,Infrequent,Weekly,,,,,,0
+1234567,Outgoings,Other Outgoings,,,IWS (DEP/WDL INT),1,Once-Off,,16Feb,,97.78,,97.78,0,97.78,0,6918979-1053,IWS,Once-Off,,,,,,,0
+87654321,Income,Salary,,,{NO MATCH},,,,,,,,,,,,,,,,,,,,,
+87654321,Income,Benefits,,,{NO MATCH},,,,,,,,,,,,,,,,,,,,,
+87654321,Income,Other Income,,,{No Unique Description} (DEP),4,Mostly 19 Days,Ongoing,30Dec - 24Feb,(Friday),1,,4,4,0,1.5999,0-1055,{No Unique Description},Mostly,19 Days,,,,,,0
+87654321,Loans,Small Amount Loans,Loans,,{NO MATCH},,,,,,,,,,,,,,,,,,,,,
+87654321,Loans,Small Amount Loans,Repayments,,{NO MATCH},,,,,,,,,,,,,,,,,,,,,
+87654321,Loans,Small Amount Loans,Dishonours,,{NO MATCH},,,,,,,,,,,,,,,,,,,,,
+87654321,Loans,Other Dishonours,,,{NO MATCH},,,,,,,,,,,,,,,,,,,,,
+87654321,Loans,Other Loans,,,{NO MATCH},,,,,,,,,,,,,,,,,,,,,
+87654321,Outgoings,Rent,,,{NO MATCH},,,,,,,,,,,,,,,,,,,,,
+87654321,Outgoings,Other Outgoings,,,{NO MATCH},,,,,,,,,,,,,,,,,,,,,
